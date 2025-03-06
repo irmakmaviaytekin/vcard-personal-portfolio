@@ -31,7 +31,8 @@ git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Irmak Aytekin
+irmakaytekin@yahoo.com
 
 ## License
 
